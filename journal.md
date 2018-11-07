@@ -11,4 +11,7 @@ et al (1999) made some measurments on the effect of RT on normal tissue tox, usi
 #simulation
 John has made some measurements and simulation on the box model. it is reproduces some dominants..
 
+#methodology
+we used an AMS (Allen et al 1999) to measure particle mass and chemical composition.
+
 
