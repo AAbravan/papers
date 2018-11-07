@@ -3,8 +3,8 @@ model measurements comparison of
 biomass burning things -- a study
 
 #Autor
-AAbravan
-John Smith
+AAbravan UoM
+John Smith UoM
  #Introduction
 et al (1999) made some measurments on the effect of RT on normal tissue tox, usingdosimetric  (allen et al 2000).
 
