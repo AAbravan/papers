@@ -1,6 +1,6 @@
 # title
 model measurements comparison of
-biomass burning things
+biomass burning things -- a study
 
 #Autor
 AAbravan
