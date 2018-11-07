@@ -3,6 +3,7 @@ model measurements comparison of
 biomass burning things -- a study
 
 #Autor
+Angela Davey UoM
 AAbravan UoM
 John Smith UoM
  #Introduction
