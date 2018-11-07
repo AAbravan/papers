@@ -14,6 +14,9 @@ John has made some measurements and simulation on the box model. it is reproduce
 #methodology
 we used an AMS (Allen et al 1999) to measure particle mass and chemical composition.
 
+#results
+we obsereved particle growth through coagulation and report the changing on the..
+
 
 #conclusion
 we made some groundbreaking discovery
