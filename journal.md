@@ -23,3 +23,5 @@ we made some groundbreaking discovery
 aren't we great
 give us fund!
 
+#figures
+this is where fig one goes
